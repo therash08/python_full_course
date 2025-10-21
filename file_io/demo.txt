@@ -1,0 +1,3 @@
+i am learning machine learning.
+
+E:\python_practise\file_io\demo.txt
